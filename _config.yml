@@ -9,7 +9,8 @@ name: 36wish
 description: Felix's blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://maxcdn.icons8.com/Color/PNG/512/Weather/rainbow-512.png
 
 #
 # Flags below are optional
